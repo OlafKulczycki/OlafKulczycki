@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlafKulczycki
 - 👀 I’m interested in Java, HTML, CSS, JavaScript, Python, Android
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Kotlin, Java and Python
 - 📫 How to reach me olaf.kulczycki@stud.hs-hannover.de
 
 <!---
