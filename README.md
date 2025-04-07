@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OlafKulczycki
 - 👀 I’m interested in Kotlin, Java, Python, Android
 - 🌱 I’m currently learning Kotlin, Java and Python
-- 📫 How to reach me olaf.kulczycki@stud.hs-hannover.de
+- 📫 How to reach me olaf.kulczycki@gmail.com
 
 <!---
 OlafKulczycki/OlafKulczycki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
